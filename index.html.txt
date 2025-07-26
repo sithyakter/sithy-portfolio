@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sithy | Digital Marketer</title>
+  <style>
+    /* === Basic Styling === */
+    body { font-family: Arial, sans-serif; margin: 0; background: #f9f9f9; color: #333; }
+    header, footer { background: #2F3E46; color: white; padding: 20px; text-align: center; }
+    section { padding: 40px; max-width: 960px; margin: auto; }
+    h1, h2 { color: #2F3E46; }
+    .box { background: white; padding: 20px; margin: 15px 0; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); }
+    a { color: #0096C7; text-decoration: none; }
+  </style>
+</head>
+<body>
+
+  <!-- ✅ Header Section -->
+  <header>
+    <h1>Sithy</h1>
+    <p>Digital Marketing | SEO | Facebook & Google Ads</p>
+  </header>
+
+  <!-- ✅ About Section -->
+  <section>
+    <h2>About Me</h2>
+    <div class="box">
+      <p>Hello! I’m Sithy, a results-driven digital marketer with hands-on experience in YouTube SEO, paid advertising, analytics, and conversion funnels. I help businesses grow online by delivering data-backed strategies.</p>
+    </div>
+  </section>
+
+  <!-- ✅ Skills Section -->
+  <section>
+    <h2>Skills</h2>
+    <div class="box">
+      <ul>
+        <li>YouTube SEO & Video Optimization</li>
+        <li>Facebook Ads Targeting & Retargeting</li>
+        <li>Google Ads (Search, Display, Video)</li>
+        <li>Keyword Research & Competitor Analysis</li>
+        <li>Marketing Funnel & Conversion Strategy</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- ✅ Portfolio Section -->
+  <section>
+    <h2>Portfolio</h2>
+    <div class="box">
+      <p>You can add screenshots or links to successful projects here. For example:</p>
+      <ul>
+        <li><a href="#">YouTube SEO for a local brand (Case Study)</a></li>
+        <li><a href="#">Google Ads for an ecommerce business</a></li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- ✅ Contact Section -->
+  <section>
+    <h2>Contact Me</h2>
+    <div class="box">
+      <p>📧 Email: <a href="mailto:sithymarketer@gmail.com">sithymarketer@gmail.com</a></p>
+      <p>📱 WhatsApp: +880-XXXXXXXXXX</p>
+      <p>🌐 LinkedIn: <a href="#">linkedin.com/in/sithymarketer</a></p>
+    </div>
+  </section>
+
+  <!-- ✅ Footer -->
+  <footer>
+    <p>&copy; 2025 Sithy | All rights reserved</p>
+  </footer>
+
+</body>
+</html>
